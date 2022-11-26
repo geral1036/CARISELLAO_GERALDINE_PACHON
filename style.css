@@ -1,0 +1,48 @@
+
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-image: url("https://media.gq.com.mx/photos/61549ec893fd227a52a963ab/16:9/w_2560%2Cc_limit/casino-981943946.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+font-family: Arial, Helvetica, sans-serif;
+}
+.caraosello{
+    width: 30%;
+}
+
+.form-select{
+    background-color: rgba(255, 255, 255, 0.425);
+}
+
+.moneda{
+height: 500px;
+width: 500px;
+}
+.coin{
+height: 500px;
+width: 500px;
+}
+.b{
+    height: 200px;
+    width: 200px;
+    
+    border-radius: 60%;
+    background-image: url("https://www.banrep.gov.co/sites/default/files/moneda-reverso-bicentenario.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+    .bitcoin,
+    .coin,
+    .b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10rem;
+    
+    }
+   
